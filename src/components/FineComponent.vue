@@ -1,5 +1,5 @@
 <template>
-    <div class="mb-5">
+    <div>
         <div
             v-for="[id,value] of items.entries()"
             :key="id"
